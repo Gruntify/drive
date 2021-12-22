@@ -21,6 +21,8 @@ omim_add_library(${PROJECT_NAME} ${SRC})
 
 target_include_directories(${PROJECT_NAME} INTERFACE .)
 
+target_compile_options(${PROJECT_NAME} PRIVATE -Wno-deprecated-copy)
+
 omim_add_test_subdirectory(opening_hours_tests)
 omim_add_test_subdirectory(opening_hours_integration_tests)
 omim_add_test_subdirectory(opening_hours_supported_features_tests)
