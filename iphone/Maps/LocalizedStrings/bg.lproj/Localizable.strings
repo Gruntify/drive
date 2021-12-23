@@ -214,9 +214,9 @@
 "description" = "Бележки";
 
 /* Email Subject when sharing bookmark list */
-"share_bookmarks_email_subject" = "Споделени са с вас отметки за Organic Maps";
+"share_bookmarks_email_subject" = "Споделени са с вас отметки за Gruntify Drive";
 
-"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Organic Maps app. Please open them if you have Organic Maps installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Organic Maps!";
+"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Gruntify Drive app. Please open them if you have Gruntify Drive installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Gruntify Drive!";
 
 /* message title of loading file */
 "load_kmz_title" = "Зареждане на отметки";
@@ -240,13 +240,13 @@
 "downloading_is_active" = "Изтеглянето на картата вече е в ход.";
 
 /* Share my position using SMS, %1$@ contains om:// and %2$@ https://omaps.app link WITHOUT NAME. @NOTE non-ascii symbols in the link will result in max 70 characters SMS instead of 140. */
-"my_position_share_sms" = "Хей, виж текущото ми местоположение в Organic Maps! %1$@ или %2$@";
+"my_position_share_sms" = "Хей, виж текущото ми местоположение в Gruntify Drive! %1$@ или %2$@";
 
 /* Subject for emailed bookmark */
-"bookmark_share_email_subject" = "Хей, виж какво съм отбелязал в Organic Maps!";
+"bookmark_share_email_subject" = "Хей, виж какво съм отбелязал в Gruntify Drive!";
 
 /* Subject for emailed position */
-"my_position_share_email_subject" = "Хей, виж текущото ми местоположение на картата в Organic Maps!";
+"my_position_share_email_subject" = "Хей, виж текущото ми местоположение на картата в Gruntify Drive!";
 
 /* Share my position using EMail, %1$@ is om:// and %2$@ is https://omaps.app link WITHOUT NAME */
 "my_position_share_email" = "Здравей,\n\nСега съм тук: %1$@. Натисни върху тази връзка %2$@ или тази %3$@, за да видиш мястото на картата.\n\nБлагодаря.";
@@ -631,7 +631,7 @@
 
 "rate_alert_title" = "Харесвате ли приложението?";
 
-"rate_alert_default_message" = "Благодарим ви, че използвате Organic Maps. Моля, дайте оценка на приложението. Вашите отзиви ни помагат да подобрим нашия продукт.";
+"rate_alert_default_message" = "Благодарим ви, че използвате Gruntify Drive. Моля, дайте оценка на приложението. Вашите отзиви ни помагат да подобрим нашия продукт.";
 
 "rate_alert_five_star_message" = "Ура! Ние също ви обичаме!";
 
@@ -852,7 +852,7 @@
 /* Error dialog no space */
 "migration_no_space_message" = "За изтегляне ви е необходимо повече място. Моля, изтрийте всички ненужни данни.";
 
-"editor_sharing_title" = "Подобрих картите на Organic Maps";
+"editor_sharing_title" = "Подобрих картите на Gruntify Drive";
 
 /* Downloaded 10 **of** 20 <- it is that "of" */
 "downloader_of" = "%1$d от %2$d";
@@ -879,7 +879,7 @@
 
 "editor_detailed_description_hint" = "Подробен коментар";
 
-"editor_detailed_description" = "Предложените от вас промени по картата ще бъдат изпратени до общността на OpenStreetMap. Опишете всички допълнителни подробности, които не могат да бъдат въведени в Organic Maps.";
+"editor_detailed_description" = "Предложените от вас промени по картата ще бъдат изпратени до общността на OpenStreetMap. Опишете всички допълнителни подробности, които не могат да бъдат въведени в Gruntify Drive.";
 
 "editor_more_about_osm" = "Повече за OpenStreetMap";
 
@@ -1008,10 +1008,10 @@
 /* For sharing via SMS and so on */
 "sharing_call_action_look" = "Виж";
 
-"recent_track_background_dialog_message" = "Organic Maps използва геопозицията ви във фонов режим за записване на последния ви маршрут.";
+"recent_track_background_dialog_message" = "Gruntify Drive използва геопозицията ви във фонов режим за записване на последния ви маршрут.";
 
 /* Text under the version number in the Help dialog. */
-"about_description" = "Organic Maps е безплатно приложение за офлайн карти с отворен код. Без реклами. Без проследяване. Ако видите грешка на картата, моля, поправете я в OpenStreetMap. Проектът е създаден от ентусиасти в свободното ни време, така че имаме нужда от вашата отзиви и подкрепа.";
+"about_description" = "Gruntify Drive е безплатно приложение за офлайн карти с отворен код. Без реклами. Без проследяване. Ако видите грешка на картата, моля, поправете я в OpenStreetMap. Проектът е създаден от ентусиасти в свободното ни време, така че имаме нужда от вашата отзиви и подкрепа.";
 
 "general_settings" = "Общи настройки";
 
@@ -1044,7 +1044,7 @@
 
 "big_font" = "Увеличаване на размера на шрифта в картата";
 
-"traffic_update_app" = "Моля, актуализирайте Organic Maps";
+"traffic_update_app" = "Моля, актуализирайте Gruntify Drive";
 
 /* "traffic" as in road congestion */
 "traffic_update_app_message" = "За да се показват данни за трафика, приложението трябва да се актуализира.";
@@ -1167,7 +1167,7 @@
 
 "crash_reports" = "Доклад за срив";
 
-"crash_reports_description" = "Можем да използваме данни ви, за да подобрим изживяването с Organic Maps. Промените ще влязат в сила, след рестартиране на приложението.";
+"crash_reports_description" = "Можем да използваме данни ви, за да подобрим изживяването с Gruntify Drive. Промените ще влязат в сила, след рестартиране на приложението.";
 
 "privacy_policy" = "Политика за поверителност";
 
@@ -1326,7 +1326,7 @@
 
 "speedcams_alert_title_carplay_2" = "Speed warnings";
 
-"download_map_carplay" = "Please download maps in Organic Maps app on your device";
+"download_map_carplay" = "Please download maps in Gruntify Drive app on your device";
 
 "carplay_roundabout_exit" = "%s exit";
 

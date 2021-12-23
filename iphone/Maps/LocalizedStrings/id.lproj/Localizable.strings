@@ -73,7 +73,7 @@
 /* Button text for the button under the country_status_download_failed message */
 "try_again" = "Coba Lagi";
 
-"about_menu_title" = "Tentang Organic Maps";
+"about_menu_title" = "Tentang Gruntify Drive";
 
 "connection_settings" = "Pengaturan Koneksi";
 
@@ -83,7 +83,7 @@
 
 "download" = "Unduh";
 
-"disconnect_usb_cable" = "Mohon lepas kabel USB atau masukkan kartu memori untuk menggunakan Organic Maps";
+"disconnect_usb_cable" = "Mohon lepas kabel USB atau masukkan kartu memori untuk menggunakan Gruntify Drive";
 
 "not_enough_free_space_on_sdcard" = "Mohon bebaskan sejumlah ruang pada kartu SD/penyimpanan USB terlebih dahulu untuk menggunakan aplikasi";
 
@@ -214,9 +214,9 @@
 "description" = "Catatan";
 
 /* Email Subject when sharing bookmark list */
-"share_bookmarks_email_subject" = "Bagikan penanda Organic Maps";
+"share_bookmarks_email_subject" = "Bagikan penanda Gruntify Drive";
 
-"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Organic Maps app. Please open them if you have Organic Maps installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Organic Maps!";
+"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Gruntify Drive app. Please open them if you have Gruntify Drive installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Gruntify Drive!";
 
 /* message title of loading file */
 "load_kmz_title" = "Memuat Penanda";
@@ -240,13 +240,13 @@
 "downloading_is_active" = "Pengunduhan negara sedang berjalan.";
 
 /* Share my position using SMS, %1$@ contains om:// and %2$@ https://omaps.app link WITHOUT NAME. @NOTE non-ascii symbols in the link will result in max 70 characters SMS instead of 140. */
-"my_position_share_sms" = "Hei, lihat lokasiku saat ini di Organic Maps! %1$@ atau %2$@ belum memiliki peta offline? Unduh di sini: https://omaps.app/get";
+"my_position_share_sms" = "Hei, lihat lokasiku saat ini di Gruntify Drive! %1$@ atau %2$@ belum memiliki peta offline? Unduh di sini: https://omaps.app/get";
 
 /* Subject for emailed bookmark */
-"bookmark_share_email_subject" = "Hei, lihat pinku di peta Organic Maps";
+"bookmark_share_email_subject" = "Hei, lihat pinku di peta Gruntify Drive";
 
 /* Subject for emailed position */
-"my_position_share_email_subject" = "Hei, lihat lokasiku saat ini di peta Organic Maps!";
+"my_position_share_email_subject" = "Hei, lihat lokasiku saat ini di peta Gruntify Drive!";
 
 /* Share my position using EMail, %1$@ is om:// and %2$@ is https://omaps.app link WITHOUT NAME */
 "my_position_share_email" = "Hai,\n\nSekarang saya ada di sini: %1$@. Klik tautan ini %2$@ atau yang ini %3$@ untuk melihat tempatnya di peta.\n\nTerima kasih.";
@@ -631,7 +631,7 @@
 
 "rate_alert_title" = "Suka aplikasi ini?";
 
-"rate_alert_default_message" = "Terima kasih karena menggunakan Organic Maps. Mohon beri peringkat untuk aplikasi ini. Masukan dari Anda membantu kami untuk menjadi lebih baik.";
+"rate_alert_default_message" = "Terima kasih karena menggunakan Gruntify Drive. Mohon beri peringkat untuk aplikasi ini. Masukan dari Anda membantu kami untuk menjadi lebih baik.";
 
 "rate_alert_five_star_message" = "Hore! Kami juga sangat menyukai Anda!";
 
@@ -852,7 +852,7 @@
 /* Error dialog no space */
 "migration_no_space_message" = "Untuk mengunduh, Anda perlu ruang lebih banyak. Harap menghapus data yang tidak diperlukan.";
 
-"editor_sharing_title" = "Saya meningkatkan peta Organic Maps";
+"editor_sharing_title" = "Saya meningkatkan peta Gruntify Drive";
 
 /* Downloaded 10 **of** 20 <- it is that "of" */
 "downloader_of" = "%1$d dari %2$d";
@@ -879,7 +879,7 @@
 
 "editor_detailed_description_hint" = "Komentar mendetail";
 
-"editor_detailed_description" = "Saran perubahan Anda akan dikirimkan ke komunitas OpenStreetMap. Jelaskan detail yang tidak dapat diedit di Organic Maps.";
+"editor_detailed_description" = "Saran perubahan Anda akan dikirimkan ke komunitas OpenStreetMap. Jelaskan detail yang tidak dapat diedit di Gruntify Drive.";
 
 "editor_more_about_osm" = "Selengkapnya tentang OpenStreetMap";
 
@@ -1008,10 +1008,10 @@
 /* For sharing via SMS and so on */
 "sharing_call_action_look" = "Lihat";
 
-"recent_track_background_dialog_message" = "Organic Maps menggunakan geoposisi di latar belakang untuk merekam rute yang baru Anda lalui.";
+"recent_track_background_dialog_message" = "Gruntify Drive menggunakan geoposisi di latar belakang untuk merekam rute yang baru Anda lalui.";
 
 /* Text under the version number in the Help dialog. */
-"about_description" = "Organic Maps adalah aplikasi peta offline sumber terbuka dan gratis. Tanpa iklan. Tidak ada pelacakan. Jika Anda melihat kesalahan pada peta, harap perbaiki di OpenStreetMap. Proyek ini dibuat oleh para penggemar di waktu luang kami, jadi kami membutuhkan masukan dan dukungan Anda.";
+"about_description" = "Gruntify Drive adalah aplikasi peta offline sumber terbuka dan gratis. Tanpa iklan. Tidak ada pelacakan. Jika Anda melihat kesalahan pada peta, harap perbaiki di OpenStreetMap. Proyek ini dibuat oleh para penggemar di waktu luang kami, jadi kami membutuhkan masukan dan dukungan Anda.";
 
 "general_settings" = "Setelan umum";
 
@@ -1044,7 +1044,7 @@
 
 "big_font" = "Perbesar ukuran huruf pada peta";
 
-"traffic_update_app" = "Perbarui Organic Maps";
+"traffic_update_app" = "Perbarui Gruntify Drive";
 
 /* "traffic" as in road congestion */
 "traffic_update_app_message" = "Untuk menampilkan data lalu lintas, aplikasi ini harus diperbarui.";
@@ -1167,7 +1167,7 @@
 
 "crash_reports" = "Laporan tabrakan";
 
-"crash_reports_description" = "Kami dapat menggunakan data Anda untuk meningkatkan pengalaman Organic Maps. Perubahan akan berlaku setelah Anda memulai ulang aplikasi.";
+"crash_reports_description" = "Kami dapat menggunakan data Anda untuk meningkatkan pengalaman Gruntify Drive. Perubahan akan berlaku setelah Anda memulai ulang aplikasi.";
 
 "privacy_policy" = "Kebijakan privasi";
 
@@ -1236,7 +1236,7 @@
 
 "power_managment_setting_manual_max" = "Hemat daya maksimum";
 
-"enable_logging_warning_message" = "Opsi ini mengaktifkan pencatatan untuk tujuan diagnostik. Bisa amat membantu bagi staf dukungan kami yang memecahkan masalah dalam aplikasi. Aktifkan opsi ini hanya saat diminta oleh dukungan Organic Maps.";
+"enable_logging_warning_message" = "Opsi ini mengaktifkan pencatatan untuk tujuan diagnostik. Bisa amat membantu bagi staf dukungan kami yang memecahkan masalah dalam aplikasi. Aktifkan opsi ini hanya saat diminta oleh dukungan Gruntify Drive.";
 
 "access_rules_author_only" = "Pengeditan online";
 
@@ -1326,7 +1326,7 @@
 
 "speedcams_alert_title_carplay_2" = "Info kecepatan";
 
-"download_map_carplay" = "Silakan unduh peta di apl Organic Maps pada perangkat Anda";
+"download_map_carplay" = "Silakan unduh peta di apl Gruntify Drive pada perangkat Anda";
 
 "carplay_roundabout_exit" = "Jalan keluar ke %s";
 

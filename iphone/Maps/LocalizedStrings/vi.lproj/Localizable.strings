@@ -73,7 +73,7 @@
 /* Button text for the button under the country_status_download_failed message */
 "try_again" = "Thử lại";
 
-"about_menu_title" = "Giới thiệu về Organic Maps";
+"about_menu_title" = "Giới thiệu về Gruntify Drive";
 
 "connection_settings" = "Thiết lập Kết nối";
 
@@ -83,7 +83,7 @@
 
 "download" = "Tải xuống";
 
-"disconnect_usb_cable" = "Bạn vui lòng tháo cáp USB hoặc lắp thẻ nhớ vào để sử dụng Organic Maps";
+"disconnect_usb_cable" = "Bạn vui lòng tháo cáp USB hoặc lắp thẻ nhớ vào để sử dụng Gruntify Drive";
 
 "not_enough_free_space_on_sdcard" = "Bạn vui lòng giải phóng dung lượng trên ổ lưu trữ thẻ SD/USB để có thể sử dụng ứng dụng";
 
@@ -214,9 +214,9 @@
 "description" = "Ghi chú";
 
 /* Email Subject when sharing bookmark list */
-"share_bookmarks_email_subject" = "Điểm đánh dấu Organic Maps được chia sẻ";
+"share_bookmarks_email_subject" = "Điểm đánh dấu Gruntify Drive được chia sẻ";
 
-"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Organic Maps app. Please open them if you have Organic Maps installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Organic Maps!";
+"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Gruntify Drive app. Please open them if you have Gruntify Drive installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Gruntify Drive!";
 
 /* message title of loading file */
 "load_kmz_title" = "Tải Điểm đánh dấu";
@@ -240,13 +240,13 @@
 "downloading_is_active" = "Hiện đang tải xuống quốc gia.";
 
 /* Share my position using SMS, %1$@ contains om:// and %2$@ https://omaps.app link WITHOUT NAME. @NOTE non-ascii symbols in the link will result in max 70 characters SMS instead of 140. */
-"my_position_share_sms" = "Này, hãy xem vị trí hiện tại của tôi tại Organic Maps! %1$@ hoặc %2$@ Bạn không có bản đồ ngoại tuyến? Tải xuống tại đây: https://omaps.app/get";
+"my_position_share_sms" = "Này, hãy xem vị trí hiện tại của tôi tại Gruntify Drive! %1$@ hoặc %2$@ Bạn không có bản đồ ngoại tuyến? Tải xuống tại đây: https://omaps.app/get";
 
 /* Subject for emailed bookmark */
-"bookmark_share_email_subject" = "Này, hãy xem ghim của tôi tại Organic Maps map";
+"bookmark_share_email_subject" = "Này, hãy xem ghim của tôi tại Gruntify Drive map";
 
 /* Subject for emailed position */
-"my_position_share_email_subject" = "Này, hãy xem vị trí hiện tại của tôi tại Organic Maps map!";
+"my_position_share_email_subject" = "Này, hãy xem vị trí hiện tại của tôi tại Gruntify Drive map!";
 
 /* Share my position using EMail, %1$@ is om:// and %2$@ is https://omaps.app link WITHOUT NAME */
 "my_position_share_email" = "Chào,\n\nTôi hiện đang ở đây: %1$@. Hãy nhấn vào liên kết này %2$@ hoặc liên kết này %3$@ để xem địa điểm trên bản đồ.\n\nCám ơn.";
@@ -631,7 +631,7 @@
 
 "rate_alert_title" = "Bạn thích ứng dụng chứ?";
 
-"rate_alert_default_message" = "Cám ơn bạn đã sử dụng Organic Maps. Vui lòng đánh giá ứng dụng. Phản hồi của bạn giúp chúng tôi trở nên tốt hơn.";
+"rate_alert_default_message" = "Cám ơn bạn đã sử dụng Gruntify Drive. Vui lòng đánh giá ứng dụng. Phản hồi của bạn giúp chúng tôi trở nên tốt hơn.";
 
 "rate_alert_five_star_message" = "Hoan hô! Chúng tôi cũng yêu bạn!";
 
@@ -852,7 +852,7 @@
 /* Error dialog no space */
 "migration_no_space_message" = "Để tải xuống, bạn cần thêm dung lượng. Xin xóa mọi dữ liệu không cần thiết.";
 
-"editor_sharing_title" = "Tôi đã cải thiện các bản đồ Organic Maps";
+"editor_sharing_title" = "Tôi đã cải thiện các bản đồ Gruntify Drive";
 
 /* Downloaded 10 **of** 20 <- it is that "of" */
 "downloader_of" = "%1$d trên %2$d";
@@ -879,7 +879,7 @@
 
 "editor_detailed_description_hint" = "Nhận xét chi tiết";
 
-"editor_detailed_description" = "Những thay đổi đề nghị của bạn sẽ được gửi đến cộng đồng OpenStreetMap. Mô tả các chi tiết không thể sửa trong Organic Maps.";
+"editor_detailed_description" = "Những thay đổi đề nghị của bạn sẽ được gửi đến cộng đồng OpenStreetMap. Mô tả các chi tiết không thể sửa trong Gruntify Drive.";
 
 "editor_more_about_osm" = "Thông tin bổ sung về OpenStreetMap";
 
@@ -1008,10 +1008,10 @@
 /* For sharing via SMS and so on */
 "sharing_call_action_look" = "Xem";
 
-"recent_track_background_dialog_message" = "Organic Maps sử dụng định vị của bạn trong ứng dụng chạy nền để ghi lại tuyến đường đã đi gần đây của bạn.";
+"recent_track_background_dialog_message" = "Gruntify Drive sử dụng định vị của bạn trong ứng dụng chạy nền để ghi lại tuyến đường đã đi gần đây của bạn.";
 
 /* Text under the version number in the Help dialog. */
-"about_description" = "Organic Maps là một ứng dụng bản đồ ngoại tuyến mã nguồn mở và miễn phí. Không quảng cáo. Không theo dõi. Nếu bạn thấy lỗi trên bản đồ, hãy sửa lỗi đó trong OpenStreetMap. Dự án được tạo ra bởi những người đam mê trong thời gian rảnh của chúng tôi, vì vậy chúng tôi cần phản hồi và hỗ trợ của bạn.";
+"about_description" = "Gruntify Drive là một ứng dụng bản đồ ngoại tuyến mã nguồn mở và miễn phí. Không quảng cáo. Không theo dõi. Nếu bạn thấy lỗi trên bản đồ, hãy sửa lỗi đó trong OpenStreetMap. Dự án được tạo ra bởi những người đam mê trong thời gian rảnh của chúng tôi, vì vậy chúng tôi cần phản hồi và hỗ trợ của bạn.";
 
 "general_settings" = "Thiết lập chung";
 
@@ -1044,7 +1044,7 @@
 
 "big_font" = "Tăng kích cỡ phông chữ trên bản đồ";
 
-"traffic_update_app" = "Vui lòng cập nhật Organic Maps";
+"traffic_update_app" = "Vui lòng cập nhật Gruntify Drive";
 
 /* "traffic" as in road congestion */
 "traffic_update_app_message" = "Để hiển thị dữ liệu giao thông, ứng dụng cần phải được cập nhật.";
@@ -1167,7 +1167,7 @@
 
 "crash_reports" = "Báo cáo sự cố";
 
-"crash_reports_description" = "Chúng tôi có thể sử dụng dữ liệu của bạn để cải thiện trải nghiệm trên Organic Maps. Thay đổi sẽ có hiệu lực sau khi bạn khởi động lại ứng dụng.";
+"crash_reports_description" = "Chúng tôi có thể sử dụng dữ liệu của bạn để cải thiện trải nghiệm trên Gruntify Drive. Thay đổi sẽ có hiệu lực sau khi bạn khởi động lại ứng dụng.";
 
 "privacy_policy" = "Chính sách bảo mật";
 
@@ -1236,7 +1236,7 @@
 
 "power_managment_setting_manual_max" = "Tiết kiệm năng lượng tối đa";
 
-"enable_logging_warning_message" = "Tùy chọn này được kích hoạt để ghi nhật ký đăng nhập cho mục đích chẩn đoán. Điều này sẽ giúp nhóm chúng tôi làm rõ các vấn đề liên quan đến ứng dụng. Hãy bật tùy chọn này chỉ khi nào có yêu cầu hỗ trợ từ Organic Maps.";
+"enable_logging_warning_message" = "Tùy chọn này được kích hoạt để ghi nhật ký đăng nhập cho mục đích chẩn đoán. Điều này sẽ giúp nhóm chúng tôi làm rõ các vấn đề liên quan đến ứng dụng. Hãy bật tùy chọn này chỉ khi nào có yêu cầu hỗ trợ từ Gruntify Drive.";
 
 "access_rules_author_only" = "Chỉnh sửa trực tuyến";
 
@@ -1326,7 +1326,7 @@
 
 "speedcams_alert_title_carplay_2" = "Cảnh báo tốc độ";
 
-"download_map_carplay" = "Vui lòng tải xuống bản đồ trong ứng dụng Organic Maps trên thiết bị của bạn";
+"download_map_carplay" = "Vui lòng tải xuống bản đồ trong ứng dụng Gruntify Drive trên thiết bị của bạn";
 
 "carplay_roundabout_exit" = "Lối ra %s của vòng xuyến";
 

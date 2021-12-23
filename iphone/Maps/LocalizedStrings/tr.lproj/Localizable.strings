@@ -73,7 +73,7 @@
 /* Button text for the button under the country_status_download_failed message */
 "try_again" = "Tekrar Dene";
 
-"about_menu_title" = "Organic Maps Hakkında";
+"about_menu_title" = "Gruntify Drive Hakkında";
 
 "connection_settings" = "Bağlantı Ayarları";
 
@@ -83,7 +83,7 @@
 
 "download" = "İndir";
 
-"disconnect_usb_cable" = "Organic Maps’yi kullanabilmeniz için lütfen USB kablosunun bağlantısını kesin veya hafıza kartı takın";
+"disconnect_usb_cable" = "Gruntify Drive’yi kullanabilmeniz için lütfen USB kablosunun bağlantısını kesin veya hafıza kartı takın";
 
 "not_enough_free_space_on_sdcard" = "Uygulamayı kullanabilmeniz için lütfen SD kart/USB depolama aygıtında biraz alan boşaltın";
 
@@ -214,9 +214,9 @@
 "description" = "Notlar";
 
 /* Email Subject when sharing bookmark list */
-"share_bookmarks_email_subject" = "Seninle paylaşılan Organic Maps yer imleri";
+"share_bookmarks_email_subject" = "Seninle paylaşılan Gruntify Drive yer imleri";
 
-"share_bookmarks_email_body" = "Merhaba!\n\nEktekiler benim Organic Maps yer imlerim. Eğer Organic Maps'i yüklediyseniz lütfen ektekileri açın. Eğer yüklemediyseniz, bu bağlantıyı takip ederek iOS ve Android cihazınız için uygulamayı yükleyebilirsiniz: https://omaps.app/get?kmz\n\nOrganic Maps ile seyahat etmenin keyfini çıkarın!";
+"share_bookmarks_email_body" = "Merhaba!\n\nEktekiler benim Gruntify Drive yer imlerim. Eğer Gruntify Drive'i yüklediyseniz lütfen ektekileri açın. Eğer yüklemediyseniz, bu bağlantıyı takip ederek iOS ve Android cihazınız için uygulamayı yükleyebilirsiniz: https://omaps.app/get?kmz\n\nGruntify Drive ile seyahat etmenin keyfini çıkarın!";
 
 /* message title of loading file */
 "load_kmz_title" = "Yer İmleri Yükleniyor";
@@ -240,13 +240,13 @@
 "downloading_is_active" = "Harita indirme işlemi şu anda sürüyor.";
 
 /* Share my position using SMS, %1$@ contains om:// and %2$@ https://omaps.app link WITHOUT NAME. @NOTE non-ascii symbols in the link will result in max 70 characters SMS instead of 140. */
-"my_position_share_sms" = "Hey, Organic Maps’te geçerli konumumu incele! %1$@ veya %2$@ Çevrimdışı haritalar sende yok mu? Buradan indir: https://omaps.app/get";
+"my_position_share_sms" = "Hey, Gruntify Drive’te geçerli konumumu incele! %1$@ veya %2$@ Çevrimdışı haritalar sende yok mu? Buradan indir: https://omaps.app/get";
 
 /* Subject for emailed bookmark */
-"bookmark_share_email_subject" = "Hey, Organic Maps haritasında pinimi incele!";
+"bookmark_share_email_subject" = "Hey, Gruntify Drive haritasında pinimi incele!";
 
 /* Subject for emailed position */
-"my_position_share_email_subject" = "Hey, Organic Maps’te geçerli konumumu incele!";
+"my_position_share_email_subject" = "Hey, Gruntify Drive’te geçerli konumumu incele!";
 
 /* Share my position using EMail, %1$@ is om:// and %2$@ is https://omaps.app link WITHOUT NAME */
 "my_position_share_email" = "Merhaba,\n\nŞu anda bulunduğum yer: %1$@. Yeri haritada görmek için bu bağlantıya %2$@ veya şuna %3$@ tıkla.\n\nTeşekkürler.";
@@ -631,7 +631,7 @@
 
 "rate_alert_title" = "Uygulamayı beğendiniz mi?";
 
-"rate_alert_default_message" = "Organic Maps’yi kullandığınız için teşekkür ederiz. Lütfen uygulamaya puan verin. Geri bildiriminiz daha iyi hale gelebilmemize yardımcı olur.";
+"rate_alert_default_message" = "Gruntify Drive’yi kullandığınız için teşekkür ederiz. Lütfen uygulamaya puan verin. Geri bildiriminiz daha iyi hale gelebilmemize yardımcı olur.";
 
 "rate_alert_five_star_message" = "Yaşasın! Biz de sizi seviyoruz!";
 
@@ -852,7 +852,7 @@
 /* Error dialog no space */
 "migration_no_space_message" = "İndirmek için daha fazla alana ihtiyacınız var. Lütfen gereksiz verileri silin.";
 
-"editor_sharing_title" = "Organic Maps haritalarını geliştirdim";
+"editor_sharing_title" = "Gruntify Drive haritalarını geliştirdim";
 
 /* Downloaded 10 **of** 20 <- it is that "of" */
 "downloader_of" = "%1$d/%2$d";
@@ -879,7 +879,7 @@
 
 "editor_detailed_description_hint" = "Ayrıntılı yorum";
 
-"editor_detailed_description" = "Önerdiğiniz değişiklikler OpenStreetMap topluluğuna gönderilecek. Organic Maps’te düzenlenemeyen ayrıntıları açıklayın.";
+"editor_detailed_description" = "Önerdiğiniz değişiklikler OpenStreetMap topluluğuna gönderilecek. Gruntify Drive’te düzenlenemeyen ayrıntıları açıklayın.";
 
 "editor_more_about_osm" = "OpenStreetMap hakkında ek bilgi";
 
@@ -1008,10 +1008,10 @@
 /* For sharing via SMS and so on */
 "sharing_call_action_look" = "İncele";
 
-"recent_track_background_dialog_message" = "Organic Maps, en son seyahat ettiğiniz rotayı kaydetmek için arka planda coğrafi konumunuzu kullanır.";
+"recent_track_background_dialog_message" = "Gruntify Drive, en son seyahat ettiğiniz rotayı kaydetmek için arka planda coğrafi konumunuzu kullanır.";
 
 /* Text under the version number in the Help dialog. */
-"about_description" = "Organic Maps, ücretsiz ve açık kaynaklı bir çevrimdışı harita uygulamasıdır. Reklamsız. İzleme yok. Haritada bir hata görürseniz, lütfen OpenStreetMap'te düzeltin. Proje meraklıları tarafından boş zamanlarımızda oluşturulduğundan geri bildiriminize ve desteğinize ihtiyacımız var.";
+"about_description" = "Gruntify Drive, ücretsiz ve açık kaynaklı bir çevrimdışı harita uygulamasıdır. Reklamsız. İzleme yok. Haritada bir hata görürseniz, lütfen OpenStreetMap'te düzeltin. Proje meraklıları tarafından boş zamanlarımızda oluşturulduğundan geri bildiriminize ve desteğinize ihtiyacımız var.";
 
 "general_settings" = "Genel ayarlar";
 
@@ -1044,7 +1044,7 @@
 
 "big_font" = "Harita üzerindeki yazı tipi boyutunu artır";
 
-"traffic_update_app" = "Lütfen Organic Maps uygulamasını güncelleyin";
+"traffic_update_app" = "Lütfen Gruntify Drive uygulamasını güncelleyin";
 
 /* "traffic" as in road congestion */
 "traffic_update_app_message" = "Trafik verilerini görüntülemek için uygulamanın güncellenmesi gerekiyor.";
@@ -1167,7 +1167,7 @@
 
 "crash_reports" = "Kilitlenme raporu";
 
-"crash_reports_description" = "Organic Maps deneyimini geliştirmek için verilerinizi kullanabiliriz. Değişiklikler, uygulama yeniden başlatıldıktan sonra geçerli olur.";
+"crash_reports_description" = "Gruntify Drive deneyimini geliştirmek için verilerinizi kullanabiliriz. Değişiklikler, uygulama yeniden başlatıldıktan sonra geçerli olur.";
 
 "privacy_policy" = "Gizlilik politikası";
 
@@ -1326,7 +1326,7 @@
 
 "speedcams_alert_title_carplay_2" = "Hız uyarıları";
 
-"download_map_carplay" = "Lütfen haritaları cihazınıza Organic Maps uygulamasından indirin";
+"download_map_carplay" = "Lütfen haritaları cihazınıza Gruntify Drive uygulamasından indirin";
 
 "carplay_roundabout_exit" = "%s çıkış";
 

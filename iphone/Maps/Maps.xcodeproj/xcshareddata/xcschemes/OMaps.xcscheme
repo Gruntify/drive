@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6741A93D1BF340DE002C974C"
-               BuildableName = "Organic Maps (Debug).app"
-               BlueprintName = "OMaps"
+               BuildableName = "Gruntify Drive (Debug).app"
+               BlueprintName = "Gruntify Drive"
                ReferencedContainer = "container:Maps.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,8 +45,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6741A93D1BF340DE002C974C"
-            BuildableName = "Organic Maps (Debug).app"
-            BlueprintName = "OMaps"
+            BuildableName = "Gruntify Drive (Debug).app"
+            BlueprintName = "Gruntify Drive"
             ReferencedContainer = "container:Maps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -62,8 +62,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6741A93D1BF340DE002C974C"
-            BuildableName = "Organic Maps (Debug).app"
-            BlueprintName = "OMaps"
+            BuildableName = "Gruntify Drive (Debug).app"
+            BlueprintName = "Gruntify Drive"
             ReferencedContainer = "container:Maps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

@@ -702,12 +702,14 @@
 		4566607820E254060085E8C1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_OPTIMIZATION_PROFILE_FILE = "\"$(SRCROOT)/OptimizationProfiles/$(PROJECT_NAME).profdata\"";
 			};
 			name = Debug;
 		};
 		4566607920E254060085E8C1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_OPTIMIZATION_PROFILE_FILE = "\"$(SRCROOT)/OptimizationProfiles/$(PROJECT_NAME).profdata\"";
 				EXCLUDED_SOURCE_FILE_NAMES = "";
 			};
 			name = Release;
