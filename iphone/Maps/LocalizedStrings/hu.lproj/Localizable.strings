@@ -73,7 +73,7 @@
 /* Button text for the button under the country_status_download_failed message */
 "try_again" = "Újrapróbálkozás";
 
-"about_menu_title" = "A Organic Maps programról";
+"about_menu_title" = "A Gruntify Drive programról";
 
 "connection_settings" = "Kapcsolat beállítások";
 
@@ -83,7 +83,7 @@
 
 "download" = "Letöltés";
 
-"disconnect_usb_cable" = "Kérjük bontsa az USB kapcsolatot vagy helyezzen be memóriakártyát a Organic Maps használatához";
+"disconnect_usb_cable" = "Kérjük bontsa az USB kapcsolatot vagy helyezzen be memóriakártyát a Gruntify Drive használatához";
 
 "not_enough_free_space_on_sdcard" = "Kérjük szabadítson fel helyet az SD kártyán / USB tárolón az alkalmazás használatához!";
 
@@ -214,9 +214,9 @@
 "description" = "Jegyzetek";
 
 /* Email Subject when sharing bookmark list */
-"share_bookmarks_email_subject" = "Egy Organic Maps könyvjelzőt osztottak meg Önnel";
+"share_bookmarks_email_subject" = "Egy Gruntify Drive könyvjelzőt osztottak meg Önnel";
 
-"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Organic Maps app. Please open them if you have Organic Maps installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Organic Maps!";
+"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Gruntify Drive app. Please open them if you have Gruntify Drive installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Gruntify Drive!";
 
 /* message title of loading file */
 "load_kmz_title" = "Könyvjelzők letöltése";
@@ -240,13 +240,13 @@
 "downloading_is_active" = "Országletöltés folyamatban.";
 
 /* Share my position using SMS, %1$@ contains om:// and %2$@ https://omaps.app link WITHOUT NAME. @NOTE non-ascii symbols in the link will result in max 70 characters SMS instead of 140. */
-"my_position_share_sms" = "Nézd meg a Organic Maps helyzetemet! %1$@ vagy %2$@ A program letöltése: https://omaps.app/get";
+"my_position_share_sms" = "Nézd meg a Gruntify Drive helyzetemet! %1$@ vagy %2$@ A program letöltése: https://omaps.app/get";
 
 /* Subject for emailed bookmark */
-"bookmark_share_email_subject" = "Nézze meg a Organic Maps jelzőmet";
+"bookmark_share_email_subject" = "Nézze meg a Gruntify Drive jelzőmet";
 
 /* Subject for emailed position */
-"my_position_share_email_subject" = "Nézze meg a helyzetemet a Organic Maps térképen!";
+"my_position_share_email_subject" = "Nézze meg a helyzetemet a Gruntify Drive térképen!";
 
 /* Share my position using EMail, %1$@ is om:// and %2$@ is https://omaps.app link WITHOUT NAME */
 "my_position_share_email" = "Üdvözlöm!\n\nJelenleg itt vagyok: %1$@ Kattintson erre a hivatkozásra %2$@ vagy erre %3$@, hogy lássa a helyet a térképen.\n\nKöszönöm.";
@@ -631,7 +631,7 @@
 
 "rate_alert_title" = "Tetszik az app?";
 
-"rate_alert_default_message" = "Köszönjük, hogy a Organic Maps-t használta. Kérjük, értékelje az appot. A visszajelzéseik segítenek bennünket abban, hogy jobbá váljunk.";
+"rate_alert_default_message" = "Köszönjük, hogy a Gruntify Drive-t használta. Kérjük, értékelje az appot. A visszajelzéseik segítenek bennünket abban, hogy jobbá váljunk.";
 
 "rate_alert_five_star_message" = "Hurrá! Mi is szeretjük magát!";
 
@@ -852,7 +852,7 @@
 /* Error dialog no space */
 "migration_no_space_message" = "A letöltéshez több szabad tárhelyre van szükség. Kérjük, töröld a szükségtelen adatokat.";
 
-"editor_sharing_title" = "Én fejlesztettem a Organic Maps térképeket";
+"editor_sharing_title" = "Én fejlesztettem a Gruntify Drive térképeket";
 
 /* Downloaded 10 **of** 20 <- it is that "of" */
 "downloader_of" = "%1$d/%2$d";
@@ -879,7 +879,7 @@
 
 "editor_detailed_description_hint" = "Részletes megjegyzés";
 
-"editor_detailed_description" = "Javasolt változtatásait elküldjük az OpenStreetMap közösségnek. Írja le a további információkat, amelyek nem szerkeszthetők a Organic Maps-ben.";
+"editor_detailed_description" = "Javasolt változtatásait elküldjük az OpenStreetMap közösségnek. Írja le a további információkat, amelyek nem szerkeszthetők a Gruntify Drive-ben.";
 
 "editor_more_about_osm" = "További részletek az OpenStreetMap-ról";
 
@@ -1008,10 +1008,10 @@
 /* For sharing via SMS and so on */
 "sharing_call_action_look" = "Tekintse meg";
 
-"recent_track_background_dialog_message" = "A Organic Maps a geopozíciód használatával a háttérben rögzíti a legutóbb megtett utad.";
+"recent_track_background_dialog_message" = "A Gruntify Drive a geopozíciód használatával a háttérben rögzíti a legutóbb megtett utad.";
 
 /* Text under the version number in the Help dialog. */
-"about_description" = "Az Organic Maps egy ingyenes, nyílt forráskódú offline térképalkalmazás. Nincsenek hirdetések. Nincs nyomkövetés. Ha hibát lát a térképen, javítsa ki az OpenStreetMap segítségével. A projektet a lelkesek készítik szabadidőnkben, ezért szükségünk van az Ön visszajelzésére és támogatására.";
+"about_description" = "Az Gruntify Drive egy ingyenes, nyílt forráskódú offline térképalkalmazás. Nincsenek hirdetések. Nincs nyomkövetés. Ha hibát lát a térképen, javítsa ki az OpenStreetMap segítségével. A projektet a lelkesek készítik szabadidőnkben, ezért szükségünk van az Ön visszajelzésére és támogatására.";
 
 "general_settings" = "Általános beállítások";
 
@@ -1044,7 +1044,7 @@
 
 "big_font" = "Betűméret növelése a térképen";
 
-"traffic_update_app" = "Kérjük, frissítse a Organic Maps alkalmazást";
+"traffic_update_app" = "Kérjük, frissítse a Gruntify Drive alkalmazást";
 
 /* "traffic" as in road congestion */
 "traffic_update_app_message" = "A forgalmi adatok megjelenítéséhez frissíteni kell az alkalmazást.";
@@ -1167,7 +1167,7 @@
 
 "crash_reports" = "Hibajelentés";
 
-"crash_reports_description" = "A Organic Maps fejlesztéséhez felhasználhatjuk az adatait. A változtatások az alkalmazás újraindítása után lépnek életbe.";
+"crash_reports_description" = "A Gruntify Drive fejlesztéséhez felhasználhatjuk az adatait. A változtatások az alkalmazás újraindítása után lépnek életbe.";
 
 "privacy_policy" = "Adatvédelmi irányelvek";
 
@@ -1236,7 +1236,7 @@
 
 "power_managment_setting_manual_max" = "Maximális energiatakarékosság";
 
-"enable_logging_warning_message" = "Az opció bekapcsolja a diagnosztikai célú naplózást. Hasznos lehet a support csapatunknak, akik elhárítják az alkalmazás hibáit. Csak a Organic Maps support kérésére kapcsold be ezt az opciót.";
+"enable_logging_warning_message" = "Az opció bekapcsolja a diagnosztikai célú naplózást. Hasznos lehet a support csapatunknak, akik elhárítják az alkalmazás hibáit. Csak a Gruntify Drive support kérésére kapcsold be ezt az opciót.";
 
 "access_rules_author_only" = "Online szerkesztés";
 
@@ -1326,7 +1326,7 @@
 
 "speedcams_alert_title_carplay_2" = "Sebességjelzés";
 
-"download_map_carplay" = "Kérjük, töltsd le a térképeket a Organic Maps alkalmazásban az eszközödre";
+"download_map_carplay" = "Kérjük, töltsd le a térképeket a Gruntify Drive alkalmazásban az eszközödre";
 
 "carplay_roundabout_exit" = "%s kijárat";
 

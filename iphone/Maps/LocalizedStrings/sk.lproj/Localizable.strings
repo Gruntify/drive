@@ -73,7 +73,7 @@
 /* Button text for the button under the country_status_download_failed message */
 "try_again" = "Skúsiť znova";
 
-"about_menu_title" = "O aplikácii Organic Maps";
+"about_menu_title" = "O aplikácii Gruntify Drive";
 
 "connection_settings" = "Nastavenie pripojenia";
 
@@ -83,7 +83,7 @@
 
 "download" = "Stiahnuť";
 
-"disconnect_usb_cable" = "Prosím, odpojte USB kábel alebo vložte pamäťovú kartu pre použitie s Organic Maps";
+"disconnect_usb_cable" = "Prosím, odpojte USB kábel alebo vložte pamäťovú kartu pre použitie s Gruntify Drive";
 
 "not_enough_free_space_on_sdcard" = "Prosím, uvoľnite najprv miesto na SD karte/USB úložisku";
 
@@ -214,9 +214,9 @@
 "description" = "Poznámky";
 
 /* Email Subject when sharing bookmark list */
-"share_bookmarks_email_subject" = "Zdielané záložky Organic Maps";
+"share_bookmarks_email_subject" = "Zdielané záložky Gruntify Drive";
 
-"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Organic Maps app. Please open them if you have Organic Maps installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Organic Maps!";
+"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Gruntify Drive app. Please open them if you have Gruntify Drive installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Gruntify Drive!";
 
 /* message title of loading file */
 "load_kmz_title" = "Načítavanie záložiek";
@@ -243,10 +243,10 @@
 "my_position_share_sms" = "Pozri kde som. Otvor odkaz: %1$@ alebo %2$@";
 
 /* Subject for emailed bookmark */
-"bookmark_share_email_subject" = "Pozri na moju značku na mape Organic Maps";
+"bookmark_share_email_subject" = "Pozri na moju značku na mape Gruntify Drive";
 
 /* Subject for emailed position */
-"my_position_share_email_subject" = "Pozrite si moju aktuálnu polohu na mape Organic Maps";
+"my_position_share_email_subject" = "Pozrite si moju aktuálnu polohu na mape Gruntify Drive";
 
 /* Share my position using EMail, %1$@ is om:// and %2$@ is https://omaps.app link WITHOUT NAME */
 "my_position_share_email" = "Ahoj,\n\nPráve som tu: %1$@. Stlačte jeden z týchto odkazov %2$@, %3$@ a uvidíte toto miesto na mape.\n\nVďaka";
@@ -631,7 +631,7 @@
 
 "rate_alert_title" = "Páči sa vám aplikácia?";
 
-"rate_alert_default_message" = "Ďakujeme, že používate Organic Maps. Prosím, ohodnoťte aplikáciu. Vaše názory nám pomôžu zlepšiť sa.";
+"rate_alert_default_message" = "Ďakujeme, že používate Gruntify Drive. Prosím, ohodnoťte aplikáciu. Vaše názory nám pomôžu zlepšiť sa.";
 
 "rate_alert_five_star_message" = "Hurá! Aj my vás taky páči!";
 
@@ -852,7 +852,7 @@
 /* Error dialog no space */
 "migration_no_space_message" = "Ak chcete pokračovať v sťahovaní, musíte uvoľniť viac miesta na ukladacom priestore. Prosím, odstráňte prebytočné dáta.";
 
-"editor_sharing_title" = "Vďaka mne sú mapy na Organic Maps lepšie";
+"editor_sharing_title" = "Vďaka mne sú mapy na Gruntify Drive lepšie";
 
 /* Downloaded 10 **of** 20 <- it is that "of" */
 "downloader_of" = "%1$d z %2$d";
@@ -879,7 +879,7 @@
 
 "editor_detailed_description_hint" = "Zmazaná poznámka";
 
-"editor_detailed_description" = "Vami navrhované zmeny sa odošlú do komunity OpenStreetMap. Popíšte detaily, ktoré sa nedajú upraviť v Organic Maps.";
+"editor_detailed_description" = "Vami navrhované zmeny sa odošlú do komunity OpenStreetMap. Popíšte detaily, ktoré sa nedajú upraviť v Gruntify Drive.";
 
 "editor_more_about_osm" = "Viac o OpenStreetMap";
 
@@ -1008,10 +1008,10 @@
 /* For sharing via SMS and so on */
 "sharing_call_action_look" = "Pozrite si";
 
-"recent_track_background_dialog_message" = "Organic Maps používa vašu geopozíciu na pozadí pre zaznamenávanie vami nedávno precestovanej trasy.";
+"recent_track_background_dialog_message" = "Gruntify Drive používa vašu geopozíciu na pozadí pre zaznamenávanie vami nedávno precestovanej trasy.";
 
 /* Text under the version number in the Help dialog. */
-"about_description" = "Organic Maps je bezplatná offline aplikácia máp s otvoreným zdrojom. Žiadne reklamy. Žiadne sledovanie. Ak na mape vidíte chybu, opravte ju v OpenStreetMap. Projekt vytvárajú nadšenci v našom voľnom čase, preto potrebujeme vašu spätnú väzbu a podporu.";
+"about_description" = "Gruntify Drive je bezplatná offline aplikácia máp s otvoreným zdrojom. Žiadne reklamy. Žiadne sledovanie. Ak na mape vidíte chybu, opravte ju v OpenStreetMap. Projekt vytvárajú nadšenci v našom voľnom čase, preto potrebujeme vašu spätnú väzbu a podporu.";
 
 "general_settings" = "Všeobecné nastavenia";
 
@@ -1044,7 +1044,7 @@
 
 "big_font" = "Zväčšiť veľkosť písma na mape";
 
-"traffic_update_app" = "Aktualizujte si aplikáciu Organic Maps";
+"traffic_update_app" = "Aktualizujte si aplikáciu Gruntify Drive";
 
 /* "traffic" as in road congestion */
 "traffic_update_app_message" = "Ak chcete zobraziť dopravné informácie, musíte si aktualizovať aplikáciu.";
@@ -1167,7 +1167,7 @@
 
 "crash_reports" = "Hlásenie chýb";
 
-"crash_reports_description" = "Vaše údaje môžeme použiť na zlepšenie skúseností s programom Organic Maps. Zmeny sa prejavia po reštartovaní aplikácie.";
+"crash_reports_description" = "Vaše údaje môžeme použiť na zlepšenie skúseností s programom Gruntify Drive. Zmeny sa prejavia po reštartovaní aplikácie.";
 
 "privacy_policy" = "Zásady ochrany osobných údajov";
 
@@ -1236,7 +1236,7 @@
 
 "power_managment_setting_manual_max" = "Maximálna úspora batérie";
 
-"enable_logging_warning_message" = "Táto možnosť zapína zaznamenávanie na diagnostické účely. Môže to byť užitočné pre našu technickú podporu, ktorá rieši problémy s aplikáciou. Povoliť túto možnosť iba na požiadanie podpory Organic Maps.";
+"enable_logging_warning_message" = "Táto možnosť zapína zaznamenávanie na diagnostické účely. Môže to byť užitočné pre našu technickú podporu, ktorá rieši problémy s aplikáciou. Povoliť túto možnosť iba na požiadanie podpory Gruntify Drive.";
 
 "access_rules_author_only" = "Online úprava";
 
@@ -1326,7 +1326,7 @@
 
 "speedcams_alert_title_carplay_2" = "Rýchl. upozorn.";
 
-"download_map_carplay" = "Prosím stiahnite si mapy v aplikácii Organic Maps vo vašom zariadení";
+"download_map_carplay" = "Prosím stiahnite si mapy v aplikácii Gruntify Drive vo vašom zariadení";
 
 "carplay_roundabout_exit" = "%s výjazd";
 

@@ -73,7 +73,7 @@
 /* Button text for the button under the country_status_download_failed message */
 "try_again" = "Try Again";
 
-"about_menu_title" = "About Organic Maps";
+"about_menu_title" = "About Gruntify Drive";
 
 "connection_settings" = "Connection Settings";
 
@@ -83,7 +83,7 @@
 
 "download" = "Download";
 
-"disconnect_usb_cable" = "Please disconnect USB cable or insert memory card to use Organic Maps";
+"disconnect_usb_cable" = "Please disconnect USB cable or insert memory card to use Gruntify Drive";
 
 "not_enough_free_space_on_sdcard" = "Please free up some space on the SD card/USB storage first in order to use the app";
 
@@ -214,9 +214,9 @@
 "description" = "Notes";
 
 /* Email Subject when sharing bookmark list */
-"share_bookmarks_email_subject" = "Organic Maps bookmarks were shared with you";
+"share_bookmarks_email_subject" = "Gruntify Drive bookmarks were shared with you";
 
-"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Organic Maps app. Please open them if you have Organic Maps installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Organic Maps!";
+"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Gruntify Drive app. Please open them if you have Gruntify Drive installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Gruntify Drive!";
 
 /* message title of loading file */
 "load_kmz_title" = "Loading Bookmarks";
@@ -240,13 +240,13 @@
 "downloading_is_active" = "Map download is in progress now.";
 
 /* Share my position using SMS, %1$@ contains om:// and %2$@ https://omaps.app link WITHOUT NAME. @NOTE non-ascii symbols in the link will result in max 70 characters SMS instead of 140. */
-"my_position_share_sms" = "Hey, check out my current location in Organic Maps! %1$@ or %2$@ Don't have offline maps? Download here: https://omaps.app/get";
+"my_position_share_sms" = "Hey, check out my current location in Gruntify Drive! %1$@ or %2$@ Don't have offline maps? Download here: https://omaps.app/get";
 
 /* Subject for emailed bookmark */
-"bookmark_share_email_subject" = "Hey, check out my pin in Organic Maps!";
+"bookmark_share_email_subject" = "Hey, check out my pin in Gruntify Drive!";
 
 /* Subject for emailed position */
-"my_position_share_email_subject" = "Hey, check out my current location on the Organic Maps map!";
+"my_position_share_email_subject" = "Hey, check out my current location on the Gruntify Drive map!";
 
 /* Share my position using EMail, %1$@ is om:// and %2$@ is https://omaps.app link WITHOUT NAME */
 "my_position_share_email" = "Hi,\n\nI'm here now: %1$@. Click this link %2$@ or this one %3$@ to see the place on the map.\n\nThanks.";
@@ -631,7 +631,7 @@
 
 "rate_alert_title" = "Like the app?";
 
-"rate_alert_default_message" = "Thank you for using Organic Maps. Please rate the app. Your feedback helps us improve our product.";
+"rate_alert_default_message" = "Thank you for using Gruntify Drive. Please rate the app. Your feedback helps us improve our product.";
 
 "rate_alert_five_star_message" = "Hooray! We love you, too!";
 
@@ -852,7 +852,7 @@
 /* Error dialog no space */
 "migration_no_space_message" = "To download, you need more space. Please delete any unnecessary data.";
 
-"editor_sharing_title" = "I improved the Organic Maps maps";
+"editor_sharing_title" = "I improved the Gruntify Drive maps";
 
 /* Downloaded 10 **of** 20 <- it is that "of" */
 "downloader_of" = "%1$d of %2$d";
@@ -879,7 +879,7 @@
 
 "editor_detailed_description_hint" = "Detailed comment";
 
-"editor_detailed_description" = "Your suggested map changes will be sent to the OpenStreetMap community. Describe any additional details that cannot be edited in Organic Maps.";
+"editor_detailed_description" = "Your suggested map changes will be sent to the OpenStreetMap community. Describe any additional details that cannot be edited in Gruntify Drive.";
 
 "editor_more_about_osm" = "More about OpenStreetMap";
 
@@ -1008,10 +1008,10 @@
 /* For sharing via SMS and so on */
 "sharing_call_action_look" = "Check out";
 
-"recent_track_background_dialog_message" = "Organic Maps uses your geoposition in the background for recording your recently traveled route.";
+"recent_track_background_dialog_message" = "Gruntify Drive uses your geoposition in the background for recording your recently traveled route.";
 
 /* Text under the version number in the Help dialog. */
-"about_description" = "Organic Maps is a free and open-source offline maps application. No ads. No tracking. If you see an error on the map, please fix it in OpenStreetMap. The project is created by enthusiasts in our free time, so we need your feedback and support.";
+"about_description" = "Gruntify Drive is a free and open-source offline maps application. No ads. No tracking. If you see an error on the map, please fix it in OpenStreetMap. The project is created by enthusiasts in our free time, so we need your feedback and support.";
 
 "general_settings" = "General settings";
 
@@ -1044,7 +1044,7 @@
 
 "big_font" = "Increase font size on the map";
 
-"traffic_update_app" = "Please update Organic Maps";
+"traffic_update_app" = "Please update Gruntify Drive";
 
 /* "traffic" as in road congestion */
 "traffic_update_app_message" = "To display traffic data, the application must be updated.";
@@ -1167,7 +1167,7 @@
 
 "crash_reports" = "Crash report";
 
-"crash_reports_description" = "We may use your data to improve Organic Maps experience. Changes will take effect after you restart the app.";
+"crash_reports_description" = "We may use your data to improve Gruntify Drive experience. Changes will take effect after you restart the app.";
 
 "privacy_policy" = "Privacy policy";
 
@@ -1326,7 +1326,7 @@
 
 "speedcams_alert_title_carplay_2" = "Speed warnings";
 
-"download_map_carplay" = "Please download maps in Organic Maps app on your device";
+"download_map_carplay" = "Please download maps in Gruntify Drive app on your device";
 
 "carplay_roundabout_exit" = "%s exit";
 

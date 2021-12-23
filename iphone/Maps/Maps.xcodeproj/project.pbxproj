@@ -1155,10 +1155,11 @@
 		4A7D89C31B2EBF3B00AC843E /* resources-xhdpi_dark */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "resources-xhdpi_dark"; path = "../../data/resources-xhdpi_dark"; sourceTree = "<group>"; };
 		4A7D89C41B2EBF3B00AC843E /* resources-xxhdpi_dark */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "resources-xxhdpi_dark"; path = "../../data/resources-xxhdpi_dark"; sourceTree = "<group>"; };
 		5605022E1B6211E100169CAD /* sound-strings */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "sound-strings"; path = "../../data/sound-strings"; sourceTree = "<group>"; };
-		6741AA5D1BF340DE002C974C /* Organic Maps (Debug).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Organic Maps (Debug).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6741AA5D1BF340DE002C974C /* Gruntify Drive (Debug).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Gruntify Drive (Debug).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B15907026623AE500944BBA /* 00_NotoSansThai-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "00_NotoSansThai-Regular.ttf"; path = "../../data/00_NotoSansThai-Regular.ttf"; sourceTree = "<group>"; };
 		6B679E88266BFD090074AE2A /* 00_NotoNaskhArabic-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "00_NotoNaskhArabic-Regular.ttf"; path = "../../data/00_NotoNaskhArabic-Regular.ttf"; sourceTree = "<group>"; };
 		6B9978341C89A316003B8AA0 /* editor.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = editor.config; path = ../../data/editor.config; sourceTree = "<group>"; };
+		83D2B7562772E81C0077035C /* OMaps copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "OMaps copy-Info.plist"; path = "/Volumes/Samsung/Repos/organicmaps/iphone/Maps/OMaps copy-Info.plist"; sourceTree = "<absolute>"; };
 		8D1107310486CEB800E47090 /* OMaps.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = OMaps.plist; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		978D4A30199A11E600D72CA7 /* faq.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = faq.html; path = ../../data/faq.html; sourceTree = "<group>"; };
 		97A5967E19B9CD47007A963F /* copyright.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = copyright.html; path = ../../data/copyright.html; sourceTree = "<group>"; };
@@ -1715,7 +1716,7 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6741AA5D1BF340DE002C974C /* Organic Maps (Debug).app */,
+				6741AA5D1BF340DE002C974C /* Gruntify Drive (Debug).app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1740,6 +1741,7 @@
 				19C28FACFE9D520D11CA2CBB /* Products */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				F6E2FBFB1E097B9F0083EBEC /* UI */,
+				83D2B7562772E81C0077035C /* OMaps copy-Info.plist */,
 			);
 			indentWidth = 2;
 			name = Maps;
@@ -3605,9 +3607,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6741A93D1BF340DE002C974C /* OMaps */ = {
+		6741A93D1BF340DE002C974C /* Gruntify Drive */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6741AA541BF340DE002C974C /* Build configuration list for PBXNativeTarget "OMaps" */;
+			buildConfigurationList = 6741AA541BF340DE002C974C /* Build configuration list for PBXNativeTarget "Gruntify Drive" */;
 			buildPhases = (
 				47C7F96D2191A3B600C2760C /* ShellScript */,
 				FA456C4E26BDCCC300B83C20 /* CopyFiles */,
@@ -3621,9 +3623,9 @@
 			dependencies = (
 				FA456C4D26BDCC9400B83C20 /* PBXTargetDependency */,
 			);
-			name = OMaps;
+			name = "Gruntify Drive";
 			productName = Maps;
-			productReference = 6741AA5D1BF340DE002C974C /* Organic Maps (Debug).app */;
+			productReference = 6741AA5D1BF340DE002C974C /* Gruntify Drive (Debug).app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -3697,7 +3699,7 @@
 			);
 			projectRoot = "";
 			targets = (
-				6741A93D1BF340DE002C974C /* OMaps */,
+				6741A93D1BF340DE002C974C /* Gruntify Drive */,
 			);
 		};
 /* End PBXProject section */
@@ -4475,41 +4477,43 @@
 		6741AA571BF340DE002C974C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = "OMaps-Debug.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_ENTITLEMENTS = "";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 0;
-				DEVELOPMENT_TEAM = 9Z6432XD7L;
+				DEVELOPMENT_TEAM = F23AK4V82K;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				INFOPLIST_OUTPUT_FORMAT = XML;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2021.06.20;
 				OTHER_SWIFT_FLAGS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = app.organicmaps.debug;
-				PROVISIONING_PROFILE_SPECIFIER = "CarPlay Debug";
+				PRODUCT_BUNDLE_IDENTIFIER = com.gruntify.drive.dev;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
 		6741AA5A1BF340DE002C974C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = "OMaps-Release.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_ENTITLEMENTS = "";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 0;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 9Z6432XD7L;
+				DEVELOPMENT_TEAM = F23AK4V82K;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				INFOPLIST_OUTPUT_FORMAT = XML;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2021.06.20;
 				OTHER_SWIFT_FLAGS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = app.organicmaps;
-				PROVISIONING_PROFILE_SPECIFIER = "CarPlay Release";
+				PRODUCT_BUNDLE_IDENTIFIER = com.gruntify.drive;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
@@ -4519,7 +4523,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				BUNDLE_IDENTIFIER = app.organicmaps.debug;
+				BUNDLE_IDENTIFIER = com.gruntify.drive.dev;
 				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				GCC_PREFIX_HEADER = Maps_Prefix.pch;
@@ -4544,7 +4548,7 @@
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = "${BUNDLE_IDENTIFIER}";
-				PRODUCT_NAME = "Organic Maps (Debug)";
+				PRODUCT_NAME = "Gruntify Drive (Debug)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = NO;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -4560,7 +4564,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				BUNDLE_IDENTIFIER = app.organicmaps;
+				BUNDLE_IDENTIFIER = com.gruntify.drive;
 				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				GCC_PREFIX_HEADER = Maps_Prefix.pch;
@@ -4585,7 +4589,7 @@
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = "${BUNDLE_IDENTIFIER}";
-				PRODUCT_NAME = "Organic Maps";
+				PRODUCT_NAME = "Gruntify Drive";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = NO;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -4598,7 +4602,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6741AA541BF340DE002C974C /* Build configuration list for PBXNativeTarget "OMaps" */ = {
+		6741AA541BF340DE002C974C /* Build configuration list for PBXNativeTarget "Gruntify Drive" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6741AA571BF340DE002C974C /* Debug */,

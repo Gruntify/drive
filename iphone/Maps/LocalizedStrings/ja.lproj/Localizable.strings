@@ -73,7 +73,7 @@
 /* Button text for the button under the country_status_download_failed message */
 "try_again" = "再実行";
 
-"about_menu_title" = "Organic Mapsについて";
+"about_menu_title" = "Gruntify Driveについて";
 
 "connection_settings" = "接続設定";
 
@@ -83,7 +83,7 @@
 
 "download" = "ダウンロード";
 
-"disconnect_usb_cable" = "Organic Mapsを利用するにはUSBケーブルを抜くかメモリーカードを挿入してください";
+"disconnect_usb_cable" = "Gruntify Driveを利用するにはUSBケーブルを抜くかメモリーカードを挿入してください";
 
 "not_enough_free_space_on_sdcard" = "アプリを起動するにはSDカード/USBストレージの空き容量を確保する必要があります";
 
@@ -214,9 +214,9 @@
 "description" = "メモ";
 
 /* Email Subject when sharing bookmark list */
-"share_bookmarks_email_subject" = "Organic Mapsの位置情報シェア";
+"share_bookmarks_email_subject" = "Gruntify Driveの位置情報シェア";
 
-"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Organic Maps app. Please open them if you have Organic Maps installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Organic Maps!";
+"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Gruntify Drive app. Please open them if you have Gruntify Drive installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Gruntify Drive!";
 
 /* message title of loading file */
 "load_kmz_title" = "ブックマークの読み込み中";
@@ -243,10 +243,10 @@
 "my_position_share_sms" = "私は今ここにいます。リンク: %1$@, %2$@";
 
 /* Subject for emailed bookmark */
-"bookmark_share_email_subject" = "Organic Mapsでピン情報を確認";
+"bookmark_share_email_subject" = "Gruntify Driveでピン情報を確認";
 
 /* Subject for emailed position */
-"my_position_share_email_subject" = "Organic Mapsで現在地を確認";
+"my_position_share_email_subject" = "Gruntify Driveで現在地を確認";
 
 /* Share my position using EMail, %1$@ is om:// and %2$@ is https://omaps.app link WITHOUT NAME */
 "my_position_share_email" = "私は今ここにいます: %1$@\n\nリンクをクリックすると詳細がマップに表示されます。\n\n%2$@\n\n%3$@";
@@ -631,7 +631,7 @@
 
 "rate_alert_title" = "このアプリが好きですか?";
 
-"rate_alert_default_message" = "Organic Mapsをご使用いただきありがとうございます。アプリの評価をお願いいたします。皆様からのフィードバックはアプリの改善に役立つものです。";
+"rate_alert_default_message" = "Gruntify Driveをご使用いただきありがとうございます。アプリの評価をお願いいたします。皆様からのフィードバックはアプリの改善に役立つものです。";
 
 "rate_alert_five_star_message" = "やったー! 相思相愛!";
 
@@ -852,7 +852,7 @@
 /* Error dialog no space */
 "migration_no_space_message" = "ダウンロードするには空き容量がさらに必要です。不必要なデータを削除してください。";
 
-"editor_sharing_title" = "Organic Mapsの地図を改善しました";
+"editor_sharing_title" = "Gruntify Driveの地図を改善しました";
 
 /* Downloaded 10 **of** 20 <- it is that "of" */
 "downloader_of" = "%2$d中%1$d";
@@ -879,7 +879,7 @@
 
 "editor_detailed_description_hint" = "詳細なコメント";
 
-"editor_detailed_description" = "あなたが提案した変更は、OpenStreetMapのコミュニティに送信されます。Organic Mapsで編集できない詳細を説明してください。";
+"editor_detailed_description" = "あなたが提案した変更は、OpenStreetMapのコミュニティに送信されます。Gruntify Driveで編集できない詳細を説明してください。";
 
 "editor_more_about_osm" = "OpenStreetMapについての詳細";
 
@@ -1008,10 +1008,10 @@
 /* For sharing via SMS and so on */
 "sharing_call_action_look" = "ご覧ください";
 
-"recent_track_background_dialog_message" = "Organic Mapsは、あなたの位置情報をバックグラウンドで使用して最近の走行ルートを記録します。";
+"recent_track_background_dialog_message" = "Gruntify Driveは、あなたの位置情報をバックグラウンドで使用して最近の走行ルートを記録します。";
 
 /* Text under the version number in the Help dialog. */
-"about_description" = "Organic Mapsは、無料のオープンソースのオフラインマップアプリケーションです。広告なし。全く追跡しません。地図上にエラーが表示された場合は、OpenStreetMapで修正してください。プロジェクトは私たちの自由な時間に愛好家によって作成されているため、フィードバックとサポートが必要です。";
+"about_description" = "Gruntify Driveは、無料のオープンソースのオフラインマップアプリケーションです。広告なし。全く追跡しません。地図上にエラーが表示された場合は、OpenStreetMapで修正してください。プロジェクトは私たちの自由な時間に愛好家によって作成されているため、フィードバックとサポートが必要です。";
 
 "general_settings" = "一般設定";
 
@@ -1044,7 +1044,7 @@
 
 "big_font" = "地図上のフォントサイズを大きく";
 
-"traffic_update_app" = "Organic Maps をアップデートしてください";
+"traffic_update_app" = "Gruntify Drive をアップデートしてください";
 
 /* "traffic" as in road congestion */
 "traffic_update_app_message" = "交通データを表示するには、アプリケーションをアップデートする必要があります。";
@@ -1167,7 +1167,7 @@
 
 "crash_reports" = "クラッシュレポート";
 
-"crash_reports_description" = "Organic Maps体験を向上させるため、お客様のデータを使用する可能性があります。変更は、アプリを再起動した後に、反映されます。";
+"crash_reports_description" = "Gruntify Drive体験を向上させるため、お客様のデータを使用する可能性があります。変更は、アプリを再起動した後に、反映されます。";
 
 "privacy_policy" = "個人情報保護方針";
 
@@ -1236,7 +1236,7 @@
 
 "power_managment_setting_manual_max" = "最大電力節約";
 
-"enable_logging_warning_message" = "このオプションは診断目的でのデータ記録を有効にします。これはこのアプリケーションのトラブルシューティングを担当する当社のサポートスタッフの助けになります。このオプションはOrganic Mapsにリクエストされた場合にのみ有効にしてください。";
+"enable_logging_warning_message" = "このオプションは診断目的でのデータ記録を有効にします。これはこのアプリケーションのトラブルシューティングを担当する当社のサポートスタッフの助けになります。このオプションはGruntify Driveにリクエストされた場合にのみ有効にしてください。";
 
 "access_rules_author_only" = "オンライン編集";
 
@@ -1326,7 +1326,7 @@
 
 "speedcams_alert_title_carplay_2" = "速度警告";
 
-"download_map_carplay" = "あなたの機器のOrganic Mapsのアプリにマップをダウンロードしてください";
+"download_map_carplay" = "あなたの機器のGruntify Driveのアプリにマップをダウンロードしてください";
 
 "carplay_roundabout_exit" = "第%s出口";
 

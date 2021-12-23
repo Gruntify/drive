@@ -73,7 +73,7 @@
 /* Button text for the button under the country_status_download_failed message */
 "try_again" = "Încearcă din nou";
 
-"about_menu_title" = "Despre Organic Maps";
+"about_menu_title" = "Despre Gruntify Drive";
 
 "connection_settings" = "Opțiuni de conectare";
 
@@ -83,7 +83,7 @@
 
 "download" = "Descarcă";
 
-"disconnect_usb_cable" = "Deconectează cablul USB sau introdu cartela de memorie pentru a utiliza Organic Maps";
+"disconnect_usb_cable" = "Deconectează cablul USB sau introdu cartela de memorie pentru a utiliza Gruntify Drive";
 
 "not_enough_free_space_on_sdcard" = "Eliberează spațiu pe cartela SD/memoria USB pentru a putea utiliza aplicația";
 
@@ -214,9 +214,9 @@
 "description" = "Note";
 
 /* Email Subject when sharing bookmark list */
-"share_bookmarks_email_subject" = "Marcaje Organic Maps partajate";
+"share_bookmarks_email_subject" = "Marcaje Gruntify Drive partajate";
 
-"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Organic Maps app. Please open them if you have Organic Maps installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Organic Maps!";
+"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Gruntify Drive app. Please open them if you have Gruntify Drive installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Gruntify Drive!";
 
 /* message title of loading file */
 "load_kmz_title" = "Se încarcă marcajele";
@@ -240,13 +240,13 @@
 "downloading_is_active" = "Descărcarea hărților pentru țara dorită este în curs.";
 
 /* Share my position using SMS, %1$@ contains om:// and %2$@ https://omaps.app link WITHOUT NAME. @NOTE non-ascii symbols in the link will result in max 70 characters SMS instead of 140. */
-"my_position_share_sms" = "Hei, îmi poți vedea poziția actuală pe Organic Maps! %1$@ sau %2$@ Nu ai hărțile offline? Descarcă de aici: https://omaps.app/get";
+"my_position_share_sms" = "Hei, îmi poți vedea poziția actuală pe Gruntify Drive! %1$@ sau %2$@ Nu ai hărțile offline? Descarcă de aici: https://omaps.app/get";
 
 /* Subject for emailed bookmark */
-"bookmark_share_email_subject" = "Hei, poți vedea care este poziția mea pe harta Organic Maps!";
+"bookmark_share_email_subject" = "Hei, poți vedea care este poziția mea pe harta Gruntify Drive!";
 
 /* Subject for emailed position */
-"my_position_share_email_subject" = "Hei, îmi poți vedea poziția actuală pe harta Organic Maps!";
+"my_position_share_email_subject" = "Hei, îmi poți vedea poziția actuală pe harta Gruntify Drive!";
 
 /* Share my position using EMail, %1$@ is om:// and %2$@ is https://omaps.app link WITHOUT NAME */
 "my_position_share_email" = "Bună,\n\nAcum sunt aici: %1$@. Apasă pe adresa %2$@ sau pe %3$@ pentru a vedea locul pe hartă.\n\nMulțumesc.";
@@ -631,7 +631,7 @@
 
 "rate_alert_title" = "Vă place aplicația?";
 
-"rate_alert_default_message" = "Vă mulțumim că folosiți Organic Maps. Vă rugăm să dați o notă aplicației. Comentariile dvs. ne ajută să devenim mai buni.";
+"rate_alert_default_message" = "Vă mulțumim că folosiți Gruntify Drive. Vă rugăm să dați o notă aplicației. Comentariile dvs. ne ajută să devenim mai buni.";
 
 "rate_alert_five_star_message" = "Ura! Și noi vă iubim!";
 
@@ -852,7 +852,7 @@
 /* Error dialog no space */
 "migration_no_space_message" = "Aveți nevoie de mai mult spațiu ca să descărcați. Vă rugăm să ștergeți toate informațiile inutile.";
 
-"editor_sharing_title" = "Am îmbunătățit hărțile Organic Maps";
+"editor_sharing_title" = "Am îmbunătățit hărțile Gruntify Drive";
 
 /* Downloaded 10 **of** 20 <- it is that "of" */
 "downloader_of" = "%1$d din %2$d";
@@ -879,7 +879,7 @@
 
 "editor_detailed_description_hint" = "Comentariu detaliat";
 
-"editor_detailed_description" = "Modificările sugerate vor trimise către comunitatea OpenStreetMap. Descrieți detalii ce nu pot fi adăugate în be the details which cannot be edited in Organic Maps.";
+"editor_detailed_description" = "Modificările sugerate vor trimise către comunitatea OpenStreetMap. Descrieți detalii ce nu pot fi adăugate în be the details which cannot be edited in Gruntify Drive.";
 
 "editor_more_about_osm" = "Mai multe despre OpenStreetMap";
 
@@ -1008,10 +1008,10 @@
 /* For sharing via SMS and so on */
 "sharing_call_action_look" = "Aruncați o privire";
 
-"recent_track_background_dialog_message" = "Organic Maps folosește în fundal geo-locația pentru a înregistra cel mai recent traseu urmat.";
+"recent_track_background_dialog_message" = "Gruntify Drive folosește în fundal geo-locația pentru a înregistra cel mai recent traseu urmat.";
 
 /* Text under the version number in the Help dialog. */
-"about_description" = "Organic Maps este o aplicație gratuită și open source pentru hărți offline. Fără reclame. Fără urmărire. Dacă vedeți o eroare pe hartă, remediați-o în OpenStreetMap. Proiectul este creat de entuziaști în timpul nostru liber, așa că avem nevoie de feedback-ul și asistența dvs..";
+"about_description" = "Gruntify Drive este o aplicație gratuită și open source pentru hărți offline. Fără reclame. Fără urmărire. Dacă vedeți o eroare pe hartă, remediați-o în OpenStreetMap. Proiectul este creat de entuziaști în timpul nostru liber, așa că avem nevoie de feedback-ul și asistența dvs..";
 
 "general_settings" = "Setări generale";
 
@@ -1044,7 +1044,7 @@
 
 "big_font" = "Măriți dimensiunea fontului pe hartă";
 
-"traffic_update_app" = "Vă rugăm să actualizaţi Organic Maps";
+"traffic_update_app" = "Vă rugăm să actualizaţi Gruntify Drive";
 
 /* "traffic" as in road congestion */
 "traffic_update_app_message" = "Pentru a afişa datele privind traficul, aplicația trebuie actualizată.";
@@ -1167,7 +1167,7 @@
 
 "crash_reports" = "Rapoarte de eroare";
 
-"crash_reports_description" = "Putem folosi datele dvs. pentru a dezvolta și de a îmbunătăți Organic Maps. Modificările vor intra în vigoare după repornirea aplicației.";
+"crash_reports_description" = "Putem folosi datele dvs. pentru a dezvolta și de a îmbunătăți Gruntify Drive. Modificările vor intra în vigoare după repornirea aplicației.";
 
 "privacy_policy" = "Politica de confidențialitate";
 
@@ -1236,7 +1236,7 @@
 
 "power_managment_setting_manual_max" = "Economisire maximă a energiei";
 
-"enable_logging_warning_message" = "Aceasta opțiune se pornește pentru logarea acțiunii în scopul diagnosticării. Aceasta va ajuta echipei să găsească problemele legate de aplicație. Conectați opțiunea numai la solicitarea serviciului de suport Organic Maps.";
+"enable_logging_warning_message" = "Aceasta opțiune se pornește pentru logarea acțiunii în scopul diagnosticării. Aceasta va ajuta echipei să găsească problemele legate de aplicație. Conectați opțiunea numai la solicitarea serviciului de suport Gruntify Drive.";
 
 "access_rules_author_only" = "Se editează online";
 
@@ -1326,7 +1326,7 @@
 
 "speedcams_alert_title_carplay_2" = "Info camere";
 
-"download_map_carplay" = "Vă rugăm să descărcați hărțile în aplicația Organic Maps de pe dispozitivul dvs.";
+"download_map_carplay" = "Vă rugăm să descărcați hărțile în aplicația Gruntify Drive de pe dispozitivul dvs.";
 
 "carplay_roundabout_exit" = "%s ieșire";
 

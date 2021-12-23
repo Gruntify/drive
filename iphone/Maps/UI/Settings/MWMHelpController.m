@@ -5,7 +5,7 @@
 #import "WebViewController.h"
 
 
-static NSString * const kiOSEmail = @"ios@organicmaps.app";
+static NSString * const kiOSEmail = @"ios-drive@gruntify.com";
 
 @interface MWMHelpController ()<MFMailComposeViewControllerDelegate>
 
@@ -106,13 +106,13 @@ static NSString * const kiOSEmail = @"ios@organicmaps.app";
 - (void)commonReportAction
 {
   // Do not localize subject. Support team uses it to filter emails.
-  [self sendEmailWithSubject:@"Organic Maps Feedback" toRecipient:kiOSEmail];
+  [self sendEmailWithSubject:@"Gruntify Drive Feedback" toRecipient:kiOSEmail];
 }
 
 - (void)bugReportAction
 {
   // Do not localize subject. Support team uses it to filter emails.
-  [self sendEmailWithSubject:@"Organic Maps Bugreport" toRecipient:kiOSEmail];
+  [self sendEmailWithSubject:@"Gruntify Drive Bugreport" toRecipient:kiOSEmail];
 }
 
 #pragma mark - Email

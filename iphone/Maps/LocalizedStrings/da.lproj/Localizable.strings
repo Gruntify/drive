@@ -73,7 +73,7 @@
 /* Button text for the button under the country_status_download_failed message */
 "try_again" = "Prøv igen";
 
-"about_menu_title" = "Om Organic Maps";
+"about_menu_title" = "Om Gruntify Drive";
 
 "connection_settings" = "Forbindelsesindstillinger";
 
@@ -83,7 +83,7 @@
 
 "download" = "Download";
 
-"disconnect_usb_cable" = "Frakobl venligst USB-kabel eller indsæt et memory kort for at bruge Organic Maps";
+"disconnect_usb_cable" = "Frakobl venligst USB-kabel eller indsæt et memory kort for at bruge Gruntify Drive";
 
 "not_enough_free_space_on_sdcard" = "Frigør venligst plads på dit SD-kort/USB lager først for at bruge denne app";
 
@@ -214,9 +214,9 @@
 "description" = "Noter";
 
 /* Email Subject when sharing bookmark list */
-"share_bookmarks_email_subject" = "Organic Maps bogmærker er blevet delt med dig";
+"share_bookmarks_email_subject" = "Gruntify Drive bogmærker er blevet delt med dig";
 
-"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Organic Maps app. Please open them if you have Organic Maps installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Organic Maps!";
+"share_bookmarks_email_body" = "Hello!\n\nAttached are my bookmarks from Gruntify Drive app. Please open them if you have Gruntify Drive installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Gruntify Drive!";
 
 /* message title of loading file */
 "load_kmz_title" = "Indlæser Bogmærker";
@@ -240,13 +240,13 @@
 "downloading_is_active" = "Download af kort over land er i gang nu.";
 
 /* Share my position using SMS, %1$@ contains om:// and %2$@ https://omaps.app link WITHOUT NAME. @NOTE non-ascii symbols in the link will result in max 70 characters SMS instead of 140. */
-"my_position_share_sms" = "Hey, tjek min nuværende lokation ud på Organic Maps! %1$@ or %2$@. Har du ikke offline kort? Download her: https://omaps.app/get";
+"my_position_share_sms" = "Hey, tjek min nuværende lokation ud på Gruntify Drive! %1$@ or %2$@. Har du ikke offline kort? Download her: https://omaps.app/get";
 
 /* Subject for emailed bookmark */
-"bookmark_share_email_subject" = "Hey, tjek min knappenål på Organic Maps kortet ud!";
+"bookmark_share_email_subject" = "Hey, tjek min knappenål på Gruntify Drive kortet ud!";
 
 /* Subject for emailed position */
-"my_position_share_email_subject" = "Hey, tjek min nuværende lokation ud på Organic Maps kortet!";
+"my_position_share_email_subject" = "Hey, tjek min nuværende lokation ud på Gruntify Drive kortet!";
 
 /* Share my position using EMail, %1$@ is om:// and %2$@ is https://omaps.app link WITHOUT NAME */
 "my_position_share_email" = "Hey, her er jeg nu: %1$@. Tryk på dette link %2$@ eller dette %3$@ for at se stedet på kortet. Tak.";
@@ -631,7 +631,7 @@
 
 "rate_alert_title" = "Kan du lide appen?";
 
-"rate_alert_default_message" = "Tak for at du bruger Organic Maps. Venligst bedøm appen. Din feedback hjælper os med at blive bedre.";
+"rate_alert_default_message" = "Tak for at du bruger Gruntify Drive. Venligst bedøm appen. Din feedback hjælper os med at blive bedre.";
 
 "rate_alert_five_star_message" = "Hurra! Vi elsker også dig!";
 
@@ -852,7 +852,7 @@
 /* Error dialog no space */
 "migration_no_space_message" = "For at opdatere app'en skal du bruge mere plads. Slet unødvendig data.";
 
-"editor_sharing_title" = "Jeg forbedrede Organic Maps kortene";
+"editor_sharing_title" = "Jeg forbedrede Gruntify Drive kortene";
 
 /* Downloaded 10 **of** 20 <- it is that "of" */
 "downloader_of" = "%1$d af %2$d";
@@ -879,7 +879,7 @@
 
 "editor_detailed_description_hint" = "Detaljerede bemærkninger";
 
-"editor_detailed_description" = "Dine foreslåede ændringer vil blive sendt til OpenStreetMap fællesskabet. Beskrive detaljer, som ikke kan redigeres i Organic Maps.";
+"editor_detailed_description" = "Dine foreslåede ændringer vil blive sendt til OpenStreetMap fællesskabet. Beskrive detaljer, som ikke kan redigeres i Gruntify Drive.";
 
 "editor_more_about_osm" = "Mere om OpenStreetMap";
 
@@ -1008,10 +1008,10 @@
 /* For sharing via SMS and so on */
 "sharing_call_action_look" = "Tjek";
 
-"recent_track_background_dialog_message" = "Organic Maps anvender din geoposition i baggrunden til at gemme din seneste rejserute.";
+"recent_track_background_dialog_message" = "Gruntify Drive anvender din geoposition i baggrunden til at gemme din seneste rejserute.";
 
 /* Text under the version number in the Help dialog. */
-"about_description" = "Organic Maps er en gratis og open source offline kortapplikation. Ingen annoncer. Ingen sporing. Hvis du ser en fejl på kortet, skal du rette den i OpenStreetMap. Projektet er skabt af entusiaster i vores fritid, så vi har brug for din feedback og support.";
+"about_description" = "Gruntify Drive er en gratis og open source offline kortapplikation. Ingen annoncer. Ingen sporing. Hvis du ser en fejl på kortet, skal du rette den i OpenStreetMap. Projektet er skabt af entusiaster i vores fritid, så vi har brug for din feedback og support.";
 
 "general_settings" = "Generelle indstillinger";
 
@@ -1044,7 +1044,7 @@
 
 "big_font" = "Forøg skriftstørrelsen på kortet";
 
-"traffic_update_app" = "Opdater Organic Maps";
+"traffic_update_app" = "Opdater Gruntify Drive";
 
 /* "traffic" as in road congestion */
 "traffic_update_app_message" = "Appen skal opdateres for at kunne vise trafikdata.";
@@ -1167,7 +1167,7 @@
 
 "crash_reports" = "Nedbrudsrapport";
 
-"crash_reports_description" = "Vi kan anvende dine data til at forbedre brugeroplevelsen på Organic Maps. Ændringerne træder i kraft, når du har genstartet appen.";
+"crash_reports_description" = "Vi kan anvende dine data til at forbedre brugeroplevelsen på Gruntify Drive. Ændringerne træder i kraft, når du har genstartet appen.";
 
 "privacy_policy" = "Privatlivspolitik";
 
@@ -1236,7 +1236,7 @@
 
 "power_managment_setting_manual_max" = "Maksimum strømbesparelse";
 
-"enable_logging_warning_message" = "Indstillingen aktiverer logning til diagnostiske formål. Det kan være nyttigt for vores supportere, der fejlfinder problemer med appen. Aktiver kun denne mulighed på anmodning fra Organic Maps support.";
+"enable_logging_warning_message" = "Indstillingen aktiverer logning til diagnostiske formål. Det kan være nyttigt for vores supportere, der fejlfinder problemer med appen. Aktiver kun denne mulighed på anmodning fra Gruntify Drive support.";
 
 "access_rules_author_only" = "Online redigering";
 
@@ -1326,7 +1326,7 @@
 
 "speedcams_alert_title_carplay_2" = "Radar advarsel";
 
-"download_map_carplay" = "Download kort i Organic Maps appen, på din enhed";
+"download_map_carplay" = "Download kort i Gruntify Drive appen, på din enhed";
 
 "carplay_roundabout_exit" = "%s exit";
 
